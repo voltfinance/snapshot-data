@@ -1,0 +1,29 @@
+{
+  "0x5d8D3eD5e3E774faADfb1F0aeD2291D917cF895e": {
+    "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629": {
+      "index": 0,
+      "amount": "6342122",
+      "proof": [
+        "0x2ba738ed1b670a78f318e084824e83dd2897241d06a264dcaa3bdbf9b9159093",
+        "0xa573b22043173cdde2813f7dbaf631fa5a54fa8932aeccacc829ae7978272115"
+      ]
+    }
+  },
+  "0x63A61a31F087295a2b3fbE6F546913Ccbe8127e8": {
+    "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629": {
+      "index": 1,
+      "amount": "1747141179",
+      "proof": [
+        "0x9a7d8d91656f023d8a17566254358b8a202c06a9c50030ceabcb3dabac3e31aa",
+        "0xa573b22043173cdde2813f7dbaf631fa5a54fa8932aeccacc829ae7978272115"
+      ]
+    }
+  },
+  "0x8f7FF15F3B8c9693CA81F75a20ea77a2900F2f0c": {
+    "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629": {
+      "index": 2,
+      "amount": "2000000000000000000",
+      "proof": ["0x0c80553811874bbcea6b108944fbbe339d5e885eb4749ac9efb489d688f796d3"]
+    }
+  }
+}
