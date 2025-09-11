@@ -1,0 +1,168 @@
+{
+  "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629": {
+    "merkleRoot": "0xdb96a33432cd4eefce15b16faa0a1d17ac9b25bf40be5ffeb5089955fc955b7f",
+    "tokenTotal": "10001999999999999999988",
+    "claims": {
+      "0x177f789230A705A71e74D5360Ad80a686aA5b6E7": {
+        "index": 0,
+        "amount": "204652646738433651",
+        "proof": [
+          "0xb011423bfc1aa8d35870ec02a13302db1efd081b5da12ff5a0a7be16b90a6e60",
+          "0x705386bffc1fb4839a726172fcc0db241a3dede03ad6a0d168fe900eab484c2d",
+          "0xa528cd3fda9e450b85d39160ba97defa4617d92661908eac9049708d59532bb0",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x22fA3239c4bf43D05CC587ff40ea3bA5841C6709": {
+        "index": 1,
+        "amount": "145116642441770045696",
+        "proof": [
+          "0x11019be9c112d23263cfa4e77a4e9e5303563b4ec810f8fd8c8c4fa33ca07b86",
+          "0xa7b4deb76d76d5ccab806de8cd096f170c93d78bfeb477a856b8bcb35a12ddde",
+          "0x48b5dc7ce50d9ebc6a9579ed7ba27b78338e1b81138107061def148323d17716",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0x28C974C18C6553B445c4B77F35D83F3499ACF58f": {
+        "index": 2,
+        "amount": "16278547477688099",
+        "proof": [
+          "0xc18a0f832020cb9bcefbda00f134f7308a178481bb2bdc422fc474ce3fe57717",
+          "0x78ac4afd0b934019fb10bac1b4365952266ab47c9a27ed8e1ac199f039269fba",
+          "0x7672805b2a355d1457c6d6f199c2f66f05fb94f370d870f7154760b734d3053a",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x40860a1cf97232E2C0Fa4acCda2c195cbfe5F422": {
+        "index": 3,
+        "amount": "3718917098626840982",
+        "proof": [
+          "0x42bc5ebb518b8e02101b9cfabe19380915bd63c96dfff5692bb8d5bc6bef7191",
+          "0x900f68ce02ea7aed4f35e0ca6675d570da37d84057fd39c2725061cc72a9c66a",
+          "0x302e9c354efee5f8d120c847a0d2af713179183fb1b5913c04953be2f3cccccb",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0x5458Fec60f246a0C6a4F11598bd633220d1410a8": {
+        "index": 4,
+        "amount": "198620009777433642610",
+        "proof": [
+          "0xf57d7260c4bc108879326b830579f97a378179ea6b05d6579548811d371a370f",
+          "0x8d9b7113627c72e651fa58120de668e72ad3ec3f0c4d3dfa7f1846b055aff203",
+          "0x7672805b2a355d1457c6d6f199c2f66f05fb94f370d870f7154760b734d3053a",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x5F4bf3042b8249051116fdED1CF361b2cE203D1F": {
+        "index": 5,
+        "amount": "519010734224200",
+        "proof": [
+          "0x62a2adbfa3236c09048247384d14658e43ed11981e7873391228275cd25a15b6",
+          "0x549a268c8bf319b4fe4d5a8779793839f9a5e4d7fde2a6d133d49959c26b7fb9",
+          "0x302e9c354efee5f8d120c847a0d2af713179183fb1b5913c04953be2f3cccccb",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0x735527503661Fd33Cd91c17435872314845496eb": {
+        "index": 6,
+        "amount": "43221952643460978",
+        "proof": [
+          "0x294844c8aced576f6e7eec5b01ef0510c03d01970ee624b39de3204f86f4adbc",
+          "0xbac80a08a667697ec05373c683acf4164716d4d917155f8fb342e7221a8acec0",
+          "0x48b5dc7ce50d9ebc6a9579ed7ba27b78338e1b81138107061def148323d17716",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0x79Be16de726B4661Ef61bEDC2797FF505A7014D0": {
+        "index": 7,
+        "amount": "87326105500905607451",
+        "proof": [
+          "0x9e39f998d506d22c672f6f7009d35e0f022f50895b8cc184a5f7b8562e7e8e11",
+          "0xe2bf61d5d82d0058e795635269852cb3f19404a904b61eb2a5da86ab2659af26",
+          "0xa528cd3fda9e450b85d39160ba97defa4617d92661908eac9049708d59532bb0",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x7Bd5DcB2f0259b0fFe7ed5A4dd8C322276b81142": {
+        "index": 8,
+        "amount": "13529717769460129010",
+        "proof": [
+          "0xc46698eeb650b95d56499d266d23d90f0019491640466605afe5f0aed89f41a4",
+          "0x78ac4afd0b934019fb10bac1b4365952266ab47c9a27ed8e1ac199f039269fba",
+          "0x7672805b2a355d1457c6d6f199c2f66f05fb94f370d870f7154760b734d3053a",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x8d8B40716Fc1cD92213E07557C2CA51F3e7e3c18": {
+        "index": 9,
+        "amount": "340972584350477355286",
+        "proof": [
+          "0xb9a82b0e8ea204485159ad2c12d3d139ee20a31418696c2842f65670b7ca6a5a",
+          "0x705386bffc1fb4839a726172fcc0db241a3dede03ad6a0d168fe900eab484c2d",
+          "0xa528cd3fda9e450b85d39160ba97defa4617d92661908eac9049708d59532bb0",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0x91a60A001493F4b911019C54CdF7F13A53841A9b": {
+        "index": 10,
+        "amount": "238222671748427448271",
+        "proof": [
+          "0x416d35e256fab8103d8fd5f38293cb50dd689a6adbc4cbe8eea99c398c0bf553",
+          "0x900f68ce02ea7aed4f35e0ca6675d570da37d84057fd39c2725061cc72a9c66a",
+          "0x302e9c354efee5f8d120c847a0d2af713179183fb1b5913c04953be2f3cccccb",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0xD151e1D807e7868f7e0613eE5b147A022Fe0DC41": {
+        "index": 11,
+        "amount": "368529048495943703",
+        "proof": [
+          "0x9e98351d7ac59cd33f5befbf9b54404d52ff7a7b1f4b51b6f48d28b56ec2a3d8",
+          "0xe2bf61d5d82d0058e795635269852cb3f19404a904b61eb2a5da86ab2659af26",
+          "0xa528cd3fda9e450b85d39160ba97defa4617d92661908eac9049708d59532bb0",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0xF468DA9B2C395e31014876237c04A58ce53eF075": {
+        "index": 12,
+        "amount": "934449926179333",
+        "proof": [
+          "0x6b5d5cefc20fe33aef96307b65b2909471fbc77923664013f2192d8b189deba1",
+          "0x549a268c8bf319b4fe4d5a8779793839f9a5e4d7fde2a6d133d49959c26b7fb9",
+          "0x302e9c354efee5f8d120c847a0d2af713179183fb1b5913c04953be2f3cccccb",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0xacc9374DC4D329b246D370922E01CfB40cC8c10B": {
+        "index": 13,
+        "amount": "929810315817799442",
+        "proof": [
+          "0x2096d735deec4fdd6e081b53f9cc5d4d7167db85fee8f290db9395df453f3e64",
+          "0xbac80a08a667697ec05373c683acf4164716d4d917155f8fb342e7221a8acec0",
+          "0x48b5dc7ce50d9ebc6a9579ed7ba27b78338e1b81138107061def148323d17716",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      },
+      "0xe9E388075bEe849034Ac911D9470DedE3d6A92af": {
+        "index": 14,
+        "amount": "7602741581796526787090",
+        "proof": [
+          "0xfb198e2d38b9c155e7e168cf0173a513937eb75274086861054a96334020807d",
+          "0x8d9b7113627c72e651fa58120de668e72ad3ec3f0c4d3dfa7f1846b055aff203",
+          "0x7672805b2a355d1457c6d6f199c2f66f05fb94f370d870f7154760b734d3053a",
+          "0x370d5f7225585cc0ad3818316c96d78ef13f5a2e40e16248fb491b15bcfaf173"
+        ]
+      },
+      "0xf7fc65eF293520a50A742E0e9782d5cf314729C2": {
+        "index": 15,
+        "amount": "1370187823544538414186",
+        "proof": [
+          "0x11c630f794b98e0816328885b71e61e1b4f5a699a8a412eaeb73a23d90032467",
+          "0xa7b4deb76d76d5ccab806de8cd096f170c93d78bfeb477a856b8bcb35a12ddde",
+          "0x48b5dc7ce50d9ebc6a9579ed7ba27b78338e1b81138107061def148323d17716",
+          "0xdeb9f39693ba4ddcce516953e39cc143b095ac243e5635845fba6965b542153c"
+        ]
+      }
+    }
+  }
+}
