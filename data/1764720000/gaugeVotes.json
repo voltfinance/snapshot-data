@@ -1,0 +1,50 @@
+{
+  "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x677409B2393E2ca19b454fB904F5E634E21D3D89": {
+    "amount": "230.593607305935444",
+    "percent": "0.0003919464546611252",
+    "emission": "0"
+  },
+  "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424": {
+    "amount": "119976.9752468807571384",
+    "percent": "0.20445290367140503",
+    "emission": "0"
+  },
+  "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0xA253db0439DF65bC52599aD056b0d69f8960790B": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5": {
+    "amount": "40222.9186895995151076",
+    "percent": "0.06854291434512948",
+    "emission": "0"
+  },
+  "0xE988B8f70201597dAAE068a7115Fb2563a48460a": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D": {
+    "amount": "7107894.7903562087518164",
+    "percent": "12.112668927856888",
+    "emission": "360000"
+  },
+  "0x0CF70c61d6475081209d3C79E2583E0212A1b820": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab": {
+    "amount": "11591260.0166813161154976",
+    "percent": "19.752840269805716",
+    "emission": "570000"
+  },
+  "0x716fD092b3aB741D38A7d38EBB52306cD5d724b0": { "amount": "0.0", "percent": "0", "emission": "0" },
+  "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c": {
+    "amount": "631059.244905568675122",
+    "percent": "1.0753971205738915",
+    "emission": "30000"
+  },
+  "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883": {
+    "amount": "39146585.5721437560679824",
+    "percent": "66.71028349061037",
+    "emission": "1980000"
+  },
+  "0x4799bd3F3493618BC970dca797d5840d51019526": {
+    "amount": "44254.9946394182758212",
+    "percent": "0.07541390610684102",
+    "emission": "0"
+  }
+}
