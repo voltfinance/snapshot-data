@@ -1,0 +1,94 @@
+{
+  "0x22fA3239c4bf43D05CC587ff40ea3bA5841C6709": {
+    "totalVotes": "40403094763561743217960800",
+    "allocations": [
+      { "gauge": "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6", "amount": "0" },
+      { "gauge": "0x677409B2393E2ca19b454fB904F5E634E21D3D89", "amount": "0" },
+      { "gauge": "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424", "amount": "0" },
+      { "gauge": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39", "amount": "40403094763561743217960800" },
+      { "gauge": "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992", "amount": "0" },
+      { "gauge": "0xA253db0439DF65bC52599aD056b0d69f8960790B", "amount": "0" },
+      { "gauge": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5", "amount": "0" },
+      { "gauge": "0xE988B8f70201597dAAE068a7115Fb2563a48460a", "amount": "0" },
+      { "gauge": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D", "amount": "0" },
+      { "gauge": "0x0CF70c61d6475081209d3C79E2583E0212A1b820", "amount": "0" },
+      { "gauge": "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552", "amount": "0" },
+      { "gauge": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab", "amount": "0" },
+      { "gauge": "0x716fD092b3aB741D38A7d38EBB52306cD5d724b0", "amount": "0" },
+      { "gauge": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c", "amount": "0" },
+      { "gauge": "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883", "amount": "0" },
+      { "gauge": "0x4799bd3F3493618BC970dca797d5840d51019526", "amount": "0" },
+      { "gauge": "0x2eAe1AF127e0D15aE2C38aD0eC7600c652748945", "amount": "0" },
+      { "gauge": "0x0D099b67610a08dD1306a36a88310Fad5bea575A", "amount": "0" }
+    ]
+  },
+  "0x30B9a303D785B01Ba9F3bAf6f15affab15A3833e": {
+    "totalVotes": "3553723346923497682800",
+    "allocations": [
+      { "gauge": "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6", "amount": "0" },
+      { "gauge": "0x677409B2393E2ca19b454fB904F5E634E21D3D89", "amount": "0" },
+      { "gauge": "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424", "amount": "0" },
+      { "gauge": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39", "amount": "0" },
+      { "gauge": "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992", "amount": "0" },
+      { "gauge": "0xA253db0439DF65bC52599aD056b0d69f8960790B", "amount": "0" },
+      { "gauge": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5", "amount": "0" },
+      { "gauge": "0xE988B8f70201597dAAE068a7115Fb2563a48460a", "amount": "0" },
+      { "gauge": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D", "amount": "3553723346923497682800" },
+      { "gauge": "0x0CF70c61d6475081209d3C79E2583E0212A1b820", "amount": "0" },
+      { "gauge": "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552", "amount": "0" },
+      { "gauge": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab", "amount": "0" },
+      { "gauge": "0x716fD092b3aB741D38A7d38EBB52306cD5d724b0", "amount": "0" },
+      { "gauge": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c", "amount": "0" },
+      { "gauge": "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883", "amount": "0" },
+      { "gauge": "0x4799bd3F3493618BC970dca797d5840d51019526", "amount": "0" },
+      { "gauge": "0x2eAe1AF127e0D15aE2C38aD0eC7600c652748945", "amount": "0" },
+      { "gauge": "0x0D099b67610a08dD1306a36a88310Fad5bea575A", "amount": "0" }
+    ]
+  },
+  "0x875A7BF4278f903165728F775f41342431b5EF07": {
+    "totalVotes": "6779703204793121773982400",
+    "allocations": [
+      { "gauge": "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6", "amount": "0" },
+      { "gauge": "0x677409B2393E2ca19b454fB904F5E634E21D3D89", "amount": "0" },
+      { "gauge": "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424", "amount": "0" },
+      { "gauge": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39", "amount": "0" },
+      { "gauge": "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992", "amount": "0" },
+      { "gauge": "0xA253db0439DF65bC52599aD056b0d69f8960790B", "amount": "0" },
+      { "gauge": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5", "amount": "0" },
+      { "gauge": "0xE988B8f70201597dAAE068a7115Fb2563a48460a", "amount": "0" },
+      { "gauge": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D", "amount": "0" },
+      { "gauge": "0x0CF70c61d6475081209d3C79E2583E0212A1b820", "amount": "0" },
+      { "gauge": "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552", "amount": "0" },
+      { "gauge": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab", "amount": "0" },
+      { "gauge": "0x716fD092b3aB741D38A7d38EBB52306cD5d724b0", "amount": "0" },
+      { "gauge": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c", "amount": "0" },
+      { "gauge": "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883", "amount": "0" },
+      { "gauge": "0x4799bd3F3493618BC970dca797d5840d51019526", "amount": "6779703204793121773982400" },
+      { "gauge": "0x2eAe1AF127e0D15aE2C38aD0eC7600c652748945", "amount": "0" },
+      { "gauge": "0x0D099b67610a08dD1306a36a88310Fad5bea575A", "amount": "0" }
+    ]
+  },
+  "0xc1100576059365Be2f452c55d7c44FCB03cB0025": {
+    "totalVotes": "13460275997223889917823200",
+    "allocations": [
+      { "gauge": "0x06b6949Fca3706c25A312c1104B7e4fa11ce0BB6", "amount": "0" },
+      { "gauge": "0x677409B2393E2ca19b454fB904F5E634E21D3D89", "amount": "0" },
+      { "gauge": "0x5E174874C5bc45Ba96bD859A6edA4D34EE9f4424", "amount": "0" },
+      { "gauge": "0x8a869FBbA9dDA91867c787DBE57e9A10A72DeB39", "amount": "0" },
+      { "gauge": "0x35E6083f8Fc3a5698942fa02Ebbf1E5D44a71992", "amount": "0" },
+      { "gauge": "0xA253db0439DF65bC52599aD056b0d69f8960790B", "amount": "0" },
+      { "gauge": "0x97e8B03985e54aCa2e5944c080BFc41438dA4FA5", "amount": "0" },
+      { "gauge": "0xE988B8f70201597dAAE068a7115Fb2563a48460a", "amount": "0" },
+      { "gauge": "0x57827c76d7749961EF41e7918dd9f8CfDfc7d28D", "amount": "0" },
+      { "gauge": "0x0CF70c61d6475081209d3C79E2583E0212A1b820", "amount": "0" },
+      { "gauge": "0x5945eBeA9A39f83dA5fD76ef7d6524A6A0D1d552", "amount": "0" },
+      { "gauge": "0x66055b3997E04CE3D5CC26A55dB7847A5E8fC4ab", "amount": "0" },
+      { "gauge": "0x716fD092b3aB741D38A7d38EBB52306cD5d724b0", "amount": "0" },
+      { "gauge": "0x2cF7d2BE29a6Cdbb1e7a4144611f7101aAF0404c", "amount": "0" },
+      { "gauge": "0x22305A160Abc6890Eb7727f2b8A034D7fE56E883", "amount": "0" },
+      { "gauge": "0x4799bd3F3493618BC970dca797d5840d51019526", "amount": "13460275997223889917823200" },
+      { "gauge": "0x2eAe1AF127e0D15aE2C38aD0eC7600c652748945", "amount": "0" },
+      { "gauge": "0x0D099b67610a08dD1306a36a88310Fad5bea575A", "amount": "0" }
+    ]
+  }
+}

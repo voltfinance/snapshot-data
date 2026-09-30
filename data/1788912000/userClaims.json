@@ -1,0 +1,16 @@
+{
+  "0x875A7BF4278f903165728F775f41342431b5EF07": {
+    "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9": {
+      "index": 0,
+      "amount": "15073466290187053259",
+      "proof": ["0x2eef3c1bff85c31bfd9e2090ac852f667cc5cf693683fc348a1f9a2afa73935e"]
+    }
+  },
+  "0xc1100576059365Be2f452c55d7c44FCB03cB0025": {
+    "0x74616164eB1892ceC5fa553D45b3e5D6dF7BC7b9": {
+      "index": 1,
+      "amount": "29926533709812946740",
+      "proof": ["0x0c2daf19d2fb68d65f644bfbb637442e153b0dfec03371d187b774f8c6f36a28"]
+    }
+  }
+}
